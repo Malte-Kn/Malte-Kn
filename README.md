@@ -1,5 +1,6 @@
-# :seedling:*Hi, I'm Malte!* 
-## :notebook_with_decorative_cover: My Projects
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=800&size=25&pause=1000&color=37800B&background=100C2400&width=535&lines=%F0%9F%8C%B1Welcome+to+my+Github%2C+I'm+Malte!%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+## :notebook_with_decorative_cover: *Have a look at my Projects*
 ### <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <b>Python Projects
   - [A Cryptographic Approach toward Verifiable Data Quality](https://github.com/Malte-Kn/Cryptographic-Data-Quality)
   - [Keylogger and Screen Grabber with Additional Functionality](https://github.com/Malte-Kn/KeyLogger_Screengrabber)
@@ -10,7 +11,7 @@
   - [Many Ways to Travel (Full Stack using Angular with TS)](https://github.com/Malte-Kn/coyote48)
   - [Basic Shop Model Playground (Full Stack using Angular with TS)](https://github.com/Malte-Kn/basic-shop-model)
 ##
-### 🧰 Languages and Tools
+### 🧰 *Languages and Tools I have used*
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Sentinel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -25,9 +26,12 @@
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></br>
 
+### 
+
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Malte-Kn&show_icons=true&theme=synthwave&card_width=750&exclude_repo=basic-shop-model)
 ##
 
-## :book: I'm a developer and cybersecurity enthusiast!
+## :book: *I'm a developer and cybersecurity enthusiast!*
 
 - :chart_with_upwards_trend: Currently learning the ins and outs of SOC with Sentinel
   
