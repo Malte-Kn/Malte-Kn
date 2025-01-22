@@ -39,7 +39,7 @@
   
 - :tada: Fun with Bug Bounty or VDP and CTF on TryHackMe
   
-- :muscle: I'm Top 1% on TryHackMe <img width="25%" align="right" src="https://github.com/Malte-Kn/Malte-Kn/blob/main/assets/tryhackmebadge.png?raw=true">
+- :muscle: I'm in the top 1% on [TryHackMe](https://tryhackme.com/r/p/MalteKn) <img width="25%" align="right" src="https://github.com/Malte-Kn/Malte-Kn/blob/main/assets/tryhackmebadge.png?raw=true">
 <!-- 
 **Malte-Kn/Malte-Kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
