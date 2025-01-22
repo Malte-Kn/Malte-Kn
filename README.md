@@ -1,6 +1,12 @@
-## Hi there 👋
+# :seedling:*Hi, I'm Malte!* 
 
-<!--
+## :book: I'm a developer and cybersecurity enthusiast!
+
+- :chart_with_upwards_trend: Currently learning the ins and outs of SOC with Sentinel
+- :hammer: Love working on small projects recently, machine learning or offensive cybersecurity-related
+- :tada: Fun with Bug Bounty or VDP and CTF on TryHackMe
+- :muscle: I'm Top 1% on trhackme 
+<!-- 
 **Malte-Kn/Malte-Kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
